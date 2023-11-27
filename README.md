@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ## Configuration
 
-- Ensure the `geckodriver` executable is available in the specified path
+- Ensure the `geckodriver` (v0.29.1) executable is available in the specified path
   (`geckodriver_path`) or update the path accordingly.
 
 ## License
