@@ -1,12 +1,14 @@
 # Resume Generator and PDF Extractor
 
-This Python script(s) allows you to generate multiple resume combinations using a
-html template. Additionally, it provides
-functionality to convert these generated resume html files into PDF files.
+This Python script(s) allows you to generate multiple resume combinations using
+a html template. Additionally, it provides functionality to convert these
+generated resume html files into PDF files.
 
 ## Usage
 
 ### Resume Generation
+
+
 
 ## Requirements
 
